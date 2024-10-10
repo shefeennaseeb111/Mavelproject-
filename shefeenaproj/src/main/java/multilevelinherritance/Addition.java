@@ -1,7 +1,7 @@
 package multilevelinherritance;
 
 public class Addition {
-	int a=30;
+	int a=90;
 	int b=50;
 	public void add()
 	{

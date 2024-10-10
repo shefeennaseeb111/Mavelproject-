@@ -3,7 +3,7 @@ package heirarchichal;
 public class ClassA {
 	int a=10;
 	int b=30;
-	int y;
+	int y=0;
 	public void add()
 	{
 		int c=a+b;
